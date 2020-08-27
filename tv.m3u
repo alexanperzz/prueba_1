@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",FOX
+https://ul.cdn946.net:8443/hls/2vhquzq4q11rqrq.m3u8?s=cVZB0DM4IJWdp0DvnbA70g&e=1598585353y
+#EXTINF:-1 tvg-logo="",Azteca Uno
+https://ul.cdn946.net:8443/hls/kvfmo5codeeps90.m3u8?s=N64hwj5gwW3ZO12A3rU6Qg&e=1598587655
+#EXTINF:-1 tvg-logo="",Canal 5
+https://ul.cdn946.net:8443/hls/r3aiivtasuq-1591687980.ts
+#EXTINF:-1 tvg-logo="",Azteca 7
+https://ul.cdn946.net:8443/hls/uy2bun1ra-1591953840.ts
+#EXTINF:-1 tvg-logo="", A+
+https://ul.cdn946.net:8443/hls/20ue0qpkvotn-1560719610.ts
+#EXTINF:-1 tvg-logo="",Azteca cinema 
+https://ul.cdn946.net:8443/hls/ukj89s-1765816200.ts
+#EXTINF:-1 tvg-logo="",Las Estrellas
+https://ul.cdn946.net:8443/hls/jz03xor09emsvw.m3u8?s=XSzd9KIY8Dm7Quh9NBitng&e=1598588734
