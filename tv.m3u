@@ -1,16 +1,194 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="",FOX
-https://ul.cdn946.net:8443/hls/2vhquzq4q11rqrq.m3u8?s=cVZB0DM4IJWdp0DvnbA70g&e=1598585353y
+https://ul.cdn946.net:8443/hls/2vhquzq4q11rqrq.m3u8?s=cB2k3X1Onc7yFSR0xXJZXQ&e=1598591824
+
 #EXTINF:-1 tvg-logo="",Azteca Uno
 https://ul.cdn946.net:8443/hls/kvfmo5codeeps90.m3u8?s=N64hwj5gwW3ZO12A3rU6Qg&e=1598587655
+
 #EXTINF:-1 tvg-logo="",Canal 5
-https://ul.cdn946.net:8443/hls/r3aiivtasuq-1591687980.ts
+https://https://ul.cdn946.net:8443/hls/r3aiivtasuq.m3u8?s=8xWQes1oSo4wwLeiV2ca-A&e=1598589059
+
 #EXTINF:-1 tvg-logo="",Azteca 7
-https://ul.cdn946.net:8443/hls/uy2bun1ra-1591953840.ts
+https://ul.cdn946.net:8443/hls/uy2bun1ra.m3u8?s=dXeAiiVjspD3rtswO-bpIA&e=1598591164
+
 #EXTINF:-1 tvg-logo="", A+
-https://ul.cdn946.net:8443/hls/20ue0qpkvotn-1560719610.ts
-#EXTINF:-1 tvg-logo="",Azteca cinema 
-https://ul.cdn946.net:8443/hls/ukj89s-1765816200.ts
+https://ul.cdn946.net:8443/hls/20ue0qpkvotn.m3u8?s=BKDLjdhH13ZInr1i-DMQpw&e=1598591248
+
 #EXTINF:-1 tvg-logo="",Las Estrellas
 https://ul.cdn946.net:8443/hls/jz03xor09emsvw.m3u8?s=XSzd9KIY8Dm7Quh9NBitng&e=1598588734
+
+#EXTINF:-1 tvg-logo="",Telenovelas  
+https://ul.cdn946.net:8443/hls/jq371gbzsnww.m3u8?s=NsBh5Ee0Rnbf3HMqryoicw&e=1598591702
+
+#EXTINF:-1 tvg-logo="",Fox Premium Action 
+https://u65464.cdn884.net:8443/hls/7xrwf2.m3u8?s=2ydiGhhpVdryaHkMgGWuEw&e=1598591919
+
+#EXTINF:-1 tvg-logo="",Fox Premium Series
+https://ul.cdn946.net:8443/hls/stjzjfzirbkyd.m3u8?s=be2XbsgU3Uw04eLc_hUsKQ&e=1598592177
+
+#EXTINF:-1 tvg-logo="",Fox Premium Family
+https://ul.cdn946.net:8443/hls/iut8v91.m3u8?s=rGa5kJUkWOEwzOfQPOtMeg&e=1598592279
+
+#EXTINF:-1 tvg-logo="",Fox Premium Comedy
+https://u86715.cdn884.net:8443/hls/mx2eqx25s.m3u8?s=i2JOo8lUpdCGylPM7yjw6w&e=1598592300
+
+#EXTINF:-1 tvg-logo="",Fox Premium Classics
+https://u73165.cdn884.net:8443/hls/ao01vlixbhnkzua.m3u8?s=8a_qy8GM3OdCZK29F8lgKQ&e=1598592323
+
+#EXTINF:-1 tvg-logo="",Fox Premium Movies
+https://u73165.cdn884.net:8443/hls/xc34atahnair3fj.m3u8?s=_u4Ear06oCRcmkEviKjMgQ&e=1598592348
+
+#EXTINF:-1 tvg-logo="",Fox Life
+https://u86715.cdn884.net:8443/hls/o40jqy6rw.m3u8?s=BBKdxeqZYT1pLLDTtqtfXQ&e=1598592893
+
+#EXTINF:-1 tvg-logo="",HBO Latino
+https://u86715.cdn884.net:8443/hls/i9dga0p.m3u8?s=mGqPRqk2CXjsJfVEwoR0Lg&e=1598592979
+
+#EXTINF:-1 tvg-logo="",HBO2
+https://ul.cdn946.net:8443/hls/td3zfn7dqx.m3u8?s=DSX0GIuWVUbdseimNrq1Kw&e=1598593374
+
+#EXTINF:-1 tvg-logo="",Golden
+https://ul.cdn946.net:8443/hls/26y9kk69e02.m3u8?s=ve5-tK2iR1ksIxtODdM1ag&e=1598593568
+
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",Golden PLus
+https://u86715.cdn884.net:8443/hls/iwpiozepr.m3u8?s=ktLtGPzvohaQ5YSgR-Z3Qw&e=1598593684
+
+#EXTINF:-1 tvg-logo="",Golden Edge
+https://u86715.cdn884.net:8443/hls/auabzgk8.m3u8?s=zagzGoV5DHty0fUugkIDXQ&e=1598593689
+
+#EXTINF:-1 tvg-logo="",CINEMAX
+https://ul.cdn946.net:8443/hls/33ez7s.m3u8?s=CAGT0RcnTAEdBzqlYCUdDg&e=1598593853
+
+#EXTINF:-1 tvg-logo="",CINE CANAL
+https://u86715.cdn884.net:8443/hls/qvkghmyyoej49n.m3u8?s=uhKc22KogXnWCqq2GS6ceg&e=1598593930
+
+#EXTINF:-1 tvg-logo="",TNT
+https://ul.cdn946.net:8443/hls/sxlrw3nonwnvr.m3u8?s=l1twTjFE8y8j_5TJ4evc3Q&e=1598594043
+
+#EXTINF:-1 tvg-logo="",TNT Series
+https://ul.cdn946.net:8443/hls/5tgiw8kze1vb.m3u8?s=OY_MRyHEBmy-6pSsTIRAkw&e=1598594118
+
+#EXTINF:-1 tvg-logo="",AXN
+https://ul.cdn946.net:8443/hls/yekq1q579s8muxn.m3u8?s=dRTpha-tmUMsGOjkDp_NSw&e=1598594186
+
+#EXTINF:-1 tvg-logo="",AMC
+https://ul.cdn946.net:8443/hls/bi1mnp48nc03.m3u8?s=DerDqaV6XmNXV4Pr6vXuBQ&e=1598594331
+
+#EXTINF:-1 tvg-logo="",Canal FXM
+https://u73165.cdn884.net:8443/hls/13biiju705q96ot.m3u8?s=aJOAJ4kDx9ctMHwO6h8Kgg&e=1598594466
+
+#EXTINF:-1 tvg-logo="",FX
+https://ul.cdn946.net:8443/hls/zm0fk.m3u8?s=s0tHboQZW8rdI88HiBhSmQ&e=1598594572
+
+#EXTINF:-1 tvg-logo="",SPACE
+https://u65464.cdn884.net:8443/hls/e6fwc84nht.m3u8?s=7HzuWCF1qW3fdvBvGOb5SA&e=1598594664
+
+#EXTINF:-1 tvg-logo="",COMEDY CENTRAL
+https://ul.cdn946.net:8443/hls/api170jhlk8ft2x.m3u8?s=QobFU0PKVY5FIoJ_QwSOKQ&e=1598594762
+
+#EXTINF:-1 tvg-logo="",PARAMOUNT CHANNEL
+https://u65464.cdn884.net:8443/hls/68q454pcmq4v.m3u8?s=b-VpWRvKB-7o3J47NgbteQ&e=1598594866
+
+#EXTINF:-1 tvg-logo="",CANAL SONY 
+https://u86715.cdn884.net:8443/hls/b0s4t.m3u8?s=tRt3c87-GHd9iY4u2kwH2g&e=1598595021
+
+#EXTINF:-1 tvg-logo="",TBS 
+https://ul.cdn946.net:8443/hls/qeultz96q.m3u8?s=vVDVb8GD9WkChbUs2vg6XQ&e=1598595239
+
+#EXTINF:-1 tvg-logo="",STUDIO UNIVERSAL
+https://ul.cdn946.net:8443/hls/7a6ujxz.m3u8?s=nffKnyjr1a4tS1Hy9y7SKg&e=1598595422
+
+#EXTINF:-1 tvg-logo="",UNIVERSAL CHANNEL
+https://ul.cdn946.net:8443/hls/ofn9h.m3u8?s=7CGPqDqzexxYkyOcQMTBog&e=1598595538
+
+#EXTINF:-1 tvg-logo="",WARNER 
+https://ul.cdn946.net:8443/hls/neexj84b3.m3u8?s=Sk55JcdpgqUzLnkF7teLAw&e=1598595620
+
+#EXTINF:-1 tvg-logo="",DE PELICULA 
+https://ul.cdn946.net:8443/hls/4elfkzo3pugm9.m3u8?s=XUypDxgJwzLOsW-NX7KeRQ&e=1598595730
+
+#EXTINF:-1 tvg-logo="",DISTRITO COMEDIA 
+https://ul.cdn946.net:8443/hls/3gs5nd5d.m3u8?s=RpcfTlRzjiRoydDYQuUoPA&e=1598595804
+
+#EXTINF:-1 tvg-logo="",DISCOVERY H&H
+https://u73165.cdn884.net:8443/hls/65seizd6wq8ai1k.m3u8?s=xe8GIkX1NZphl24F9vPKmA&e=1598596249
+
+#EXTINF:-1 tvg-logo="",DISCOVERY CHANNEL
+https://u86715.cdn884.net:8443/hls/418n0.m3u8?s=bQCOaXHMdMbk8IkFu1sMXA&e=1598596404
+
+#EXTINF:-1 tvg-logo="",DISCOVERY TLC 
+ https://ul.cdn946.net:8443/hls/ekxfnso4iqk.m3u8?s=h3pj_76hlLg_8VdiO-iQwA&e=1598596561
+
+#EXTINF:-1 tvg-logo="",INVESTIGACION DISCOVERY 
+https://ul.cdn946.net:8443/hls/oag7ozok5vh.m3u8?s=mYCsOkcusQ-C8CUNcuSmFA&e=1598596679
+
+#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAPHIC
+https://u73165.cdn884.net:8443/hls/z5nucmbcbtfcnw3.m3u8?s=2ElvxBnU2w86eAZwucWy2Q&e=1598596762
+
+#EXTINF:-1 tvg-logo="",HISTORY 
+https://ul.cdn946.net:8443/hls/a8h83tx.m3u8?s=_VEFn3IPNknnPVbCWId5yw&e=1598596889
+
+#EXTINF:-1 tvg-logo="",HISTORY 2
+https://u86715.cdn884.net:8443/hls/vm5j8g61jhf5c.m3u8?s=cYByW32tEzUQBYaxdRFKFA&e=1598596980
+
+#EXTINF:-1 tvg-logo="",A&E
+https://ul.cdn946.net:8443/hls/yxvanb.m3u8?s=bodHG8VIpvE_iMEa7HDxsQ&e=1598597051
+
+#EXTINF:-1 tvg-logo="",ANIMAL PLANET 
+https://u86715.cdn884.net:8443/hls/vrargf1v.m3u8?s=s9Lg_UQfALhaIlIgBZ-ReQ&e=1598597150
+
+#EXTINF:-1 tvg-logo="",FOX SPORTS 1  
+https://ul.cdn946.net:8443/hls/dkf41ble0.m3u8?s=noVzuGN-KKDMwbI3eIVdKQ&e=1598597755
+
+#EXTINF:-1 tvg-logo="",FOX SPORTS 2
+https://ul.cdn946.net:8443/hls/lb3rrpq2rts.m3u8?s=3wcCRCO7y5grSVQjBbOdsg&e=1598597874
+
+#EXTINF:-1 tvg-logo="",FOX SPORTS 3
+https://u86715.cdn884.net:8443/hls/ggioz.m3u8?s=MGfKahVM0LoqGzqT4aWd2g&e=1598597968
+
+#EXTINF:-1 tvg-logo="",ESPN 1 
+https://u86715.cdn884.net:8443/hls/ggioz.m3u8?s=MGfKahVM0LoqGzqT4aWd2g&e=1598597968
+
+#EXTINF:-1 tvg-logo="",ESPN 2
+https://ul.cdn946.net:8443/hls/kzksjhw9uzc0.m3u8?s=tTfkHaf8rl_ArHOr6G1eHQ&e=1598598314
+
+#EXTINF:-1 tvg-logo="",ESPN 3 
+https://ul.cdn946.net:8443/hls/u3y1gg9q.m3u8?s=h8aWs3-6G6hZk8JgcwQDXg&e=1598598431
+
+#EXTINF:-1 tvg-logo="",ESPN +
+https://u65464.cdn884.net:8443/hls/dkswf8r1yww.m3u8?s=ioTw1ijkLRze-JIxBKp-MQ&e=1598598518
+
+#EXTINF:-1 tvg-logo="",TUDN
+https://u73165.cdn884.net:8443/hls/wlwty.m3u8?s=T2qdqrUXMwUvuwoF2jtzdQ&e=1598598601
+
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
